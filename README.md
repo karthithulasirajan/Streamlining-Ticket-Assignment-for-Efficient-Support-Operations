@@ -1,4 +1,4 @@
-# Streamlining-Ticket-Assignment-for-Efficient-Support-Operations# Automated Ticket Assignment System
+# Streamlining-Ticket-Assignment-for-Efficient-Support-Operations
 
 ## Project Overview
 This project implements an automated ticket assignment system using ServiceNow.
